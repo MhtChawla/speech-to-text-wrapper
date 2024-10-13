@@ -1,6 +1,6 @@
 {
   "name": "speech-to-text-wrapper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Wrapper to transform any textinput into Speech-to-text Texinput",
   "main": "index.tsx",
   "scripts": {
