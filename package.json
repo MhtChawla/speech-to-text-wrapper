@@ -1,0 +1,25 @@
+{
+  "name": "speech-to-text-wrapper",
+  "version": "1.0.0",
+  "description": "Wrapper to transform any textinput into Speech-to-text Texinput",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MhtChawla/speech-to-text-wrapper.git"
+  },
+  "keywords": [
+    "speech-to-text-wrapper",
+    "speech-to-textinput",
+    "speech-to-text-textinput",
+    "s2t-textinput"
+  ],
+  "author": "Mohit Chawla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MhtChawla/speech-to-text-wrapper/issues"
+  },
+  "homepage": "https://github.com/MhtChawla/speech-to-text-wrapper#readme"
+}
