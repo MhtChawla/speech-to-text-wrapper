@@ -1,4 +1,4 @@
-# Speech to Text Texinput
+# Speech to Text Texinput ![license](https://img.shields.io/badge/Licensed-ISC-success) ![npm](https://img.shields.io/badge/npm-v1.0.0-blue)
 
 **Wrapper to transform any textinput into Speech-to-text Texinput**
 
@@ -20,7 +20,7 @@ To get started, you'll need to install the following dependencies:
 ```
 yarn add @react-native-voice/voice react-native-toast-message eventemitter3
 ```
-Ensure you've linked `@react-native-voice/voice` by following the linking instructions here: @@react-native-voice/voice[https://www.npmjs.com/package/@react-native-voice/voice#linking].
+Ensure you've linked `@react-native-voice/voice` by following the linking instructions here:! [@react-native-voice/voice][https://www.npmjs.com/package/@react-native-voice/voice#linking].
 
 ### Step 2: Install the Speech-to-Text Wrapper
 
