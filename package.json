@@ -4,7 +4,8 @@
   "description": "Wrapper to transform any textinput into Speech-to-text Texinput",
   "main": "index.tsx",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/MhtChawla/speech-to-text-wrapper/issues"
   },
-  "homepage": "https://github.com/MhtChawla/speech-to-text-wrapper#readme"
+  "homepage": "https://github.com/MhtChawla/speech-to-text-wrapper#readme",
+  "devDependencies": {
+    "typescript": "5.1.3"
+  }
 }
