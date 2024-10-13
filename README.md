@@ -1,5 +1,5 @@
 # Speech to Text Texinput
-![license](https://img.shields.io/badge/Licensed-ISC-success) ![npm](https://img.shields.io/badge/npm-v1.0.1-blue)
+![ts](https://img.shields.io/badge/React-Native-success) ![npm](https://img.shields.io/badge/npm-v1.0.2-blue)
 
 **Wrapper to transform any textinput into Speech-to-text Texinput**
 
